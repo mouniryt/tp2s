@@ -1,0 +1,113 @@
+[
+    {
+        "maladie": "COVID-19",
+        "symptomes": [
+            "fever",
+            "cough",
+            "shortness of breath",
+            "pneumonia",
+            "respiratory failure"
+        ]
+    },
+    {
+        "maladie": "Asthma",
+        "symptomes": [
+            "shortness of breath",
+            "chest tightness",
+            "persistent cough",
+            "wheezing",
+            "difficulty breathing"
+        ]
+    },
+    {
+        "maladie": "Diabetes",
+        "symptomes": [
+            "excessive thirst",
+            "frequent urination",
+            "weight loss",
+            "fatigue",
+            "blurred vision",
+            "slow healing sores",
+            "frequent infections"
+        ]
+    },
+    {
+        "maladie": "Hypertension",
+        "symptomes": [
+            "severe headache",
+            "chest pain",
+            "dizziness",
+            "blurred vision"
+        ]
+    },
+    {
+        "maladie": "Cancer",
+        "symptomes": [
+            "weight loss",
+            "persistent fatigue",
+            "lumps",
+            "skin changes",
+            "chronic pain",
+            "chronic cough",
+            "bowel changes",
+            "bladder changes"
+        ]
+    },
+    {
+        "maladie": "Bronchitis",
+        "symptomes": [
+            "persistent cough",
+            "mucus",
+            "chest discomfort",
+            "shortness of breath",
+            "low grade fever",
+            "fatigue"
+        ]
+    },
+    {
+        "maladie": "Migraine",
+        "symptomes": [
+            "throbbing headache",
+            "sensitivity to light",
+            "sensitivity to sound",
+            "nausea",
+            "vomiting",
+            "aura",
+            "vision disturbances"
+        ]
+    },
+    {
+        "maladie": "Gastroenteritis",
+        "symptomes": [
+            "watery diarrhea",
+            "nausea",
+            "vomiting",
+            "abdominal cramps",
+            "fever",
+            "chills",
+            "muscle aches"
+        ]
+    },
+    {
+        "maladie": "Food Poisoning",
+        "symptomes": [
+            "nausea",
+            "vomiting",
+            "diarrhea",
+            "bloody diarrhea",
+            "abdominal cramps",
+            "fever",
+            "dehydration"
+        ]
+    },
+    {
+        "maladie": "Arthritis",
+        "symptomes": [
+            "joint pain",
+            "joint stiffness",
+            "joint swelling",
+            "reduced range of motion",
+            "fatigue"
+        ]
+    }
+]
